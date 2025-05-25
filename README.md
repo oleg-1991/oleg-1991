@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 I focus on clean, semantic code and seamless WordPress integration — no page builders, no bloat.
 
 ## 🔧 What I do
@@ -22,7 +23,7 @@ I build custom WordPress solutions without relying on Elementor, Divi, or other 
 
 ## 📁 Selected Projects
 → Check out my pinned repositories below for examples of code quality and layout structure.
-→ For more, visit my [Upwork profile]([https://www.upwork.com/freelancers/~your_profile_url](https://www.upwork.com/freelancers/olegwebdeveloper)).
+→ For more, visit my [Upwork profile]([https://www.upwork.com/freelancers/olegwebdeveloper]).
 
 
 ## 🛠 Tech Stack
