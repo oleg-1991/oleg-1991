@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Oleg — Front-End & WordPress Developer 👋
 
-<!--
-**oleg-1991/oleg-1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on clean, semantic code and seamless WordPress integration — no page builders, no bloat.
 
-Here are some ideas to get you started:
+## 🔧 What I do
+- Pixel-perfect HTML/CSS/JS layout from Figma or any design
+- Mobile-first, responsive & accessible markup
+- Custom WordPress themes (from scratch or starter themes)
+- Integration of front-end into WordPress without Elementor/Divi
+- Optimization, troubleshooting, and bug fixing for existing WP sites
+- Plugin setup & lightweight customization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Background
+I’ve spent years working in a web agency under NDA, building production-ready websites — from simple landings to complex, multi-page structures. While most of that work is private, it shaped my professional habits and technical accuracy.
+
+## 🚫 No Page Builders
+I build custom WordPress solutions without relying on Elementor, Divi, or other visual editors — everything is done through clean, maintainable code.
+
+## 📁 Selected Projects
+→ Check out my pinned repositories below for examples of code quality and layout structure.
+→ For more, visit my [Upwork profile](https://www.upwork.com/freelancers/~your_profile_url).
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+## 🛠 Tech Stack
+HTML • CSS (SCSS/BEM) • JavaScript (ES6) • WordPress (PHP/ACF) • Git • Figma → Code
+
+Check out some of my open-source or concept work in the pinned repositories below 👇
