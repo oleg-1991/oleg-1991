@@ -23,10 +23,10 @@ I build custom WordPress solutions without relying on Elementor, Divi, or other 
 
 ## 📁 Selected Projects
 → Check out my pinned repositories below for examples of code quality and layout structure.
-→ For more, visit my [Upwork profile]([https://www.upwork.com/freelancers/olegwebdeveloper]).
+→ For more, visit my [Upwork profile](https://www.upwork.com/freelancers/olegwebdeveloper).
 
 
 ## 🛠 Tech Stack
 HTML • CSS (SCSS/BEM) • JavaScript (ES6) • WordPress (PHP/ACF) • Git • Figma → Code
 
-Check out some of my open-source or concept work in the pinned repositories below 👇
+
