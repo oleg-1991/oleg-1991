@@ -28,6 +28,3 @@ I build custom WordPress solutions without relying on Elementor, Divi, or other 
 ## Tech Stack
 HTML • CSS (SCSS/BEM) • JavaScript (ES6) • WordPress (PHP/ACF) • Git • Figma → Code
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-1991&layout=compact&theme=radical)
-
-
