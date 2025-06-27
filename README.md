@@ -12,6 +12,7 @@ I focus on clean, semantic code and seamless WordPress integration — no page b
 - Mobile-first, responsive & accessible markup
 - Custom WordPress themes (from scratch or starter themes)
 - Integration of front-end into WordPress without Elementor/Divi
+- ACF (Advanced Custom Fields) & Gutenberg for flexible, editor-friendly content management
 - Optimization, troubleshooting, and bug fixing for existing WP sites
 - Plugin setup & lightweight customization
 
