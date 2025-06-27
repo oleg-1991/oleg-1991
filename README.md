@@ -21,6 +21,7 @@ I’ve spent years working in a web agency under NDA, building production-ready 
 
 ## No Page Builders
 I build custom WordPress solutions without relying on Elementor, Divi, or other visual editors — everything is done through clean, maintainable code.
+For content editing, I use Gutenberg blocks and ACF fields to give clients full control without bloating the codebase.
 
 ## Selected Projects
 → Check out my pinned repositories below for examples of code quality and layout structure.<br>
