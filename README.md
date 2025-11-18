@@ -16,9 +16,6 @@ I focus on clean, semantic code and seamless WordPress integration — no page b
 - Optimization, troubleshooting, and bug fixing for existing WP sites
 - Plugin setup & lightweight customization
 
-## Background
-I’ve spent years working in a web agency under NDA, building production-ready websites — from simple landings to complex, multi-page structures. While most of that work is private, it shaped my professional habits and technical accuracy.
-
 ## No Page Builders
 I build custom WordPress solutions without relying on Elementor, Divi, or other visual editors — everything is done through clean, maintainable code.
 For content editing, I use Gutenberg blocks and ACF fields to give clients full control without bloating the codebase.
