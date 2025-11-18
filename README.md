@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-[![Chrome DevTools User](https://img.shields.io/badge/Chrome%20DevTools-User-4285F4?logo=googlechrome&logoColor=white)]
+![Chrome DevTools User](https://img.shields.io/badge/Chrome%20DevTools-User-4285F4?logo=googlechrome&logoColor=white)
 
 I focus on clean, semantic code and seamless WordPress integration — no page builders, no bloat.
 
